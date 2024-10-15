@@ -1,6 +1,6 @@
 # Neighborhood Consistency Learning on Unsupervised Domain Adaptation
 
-This repository is the official implementation for NCL on Unsupervised domain adaptation in ACM Multimedia 2023 paper:
+This repository is the official implementation for NCL on Unsupervised domain adaptation in **ACM Multimedia 2023**:
 > **Rethinking Neighborhood Consistency Learning on Unsupervised Domain Adaptation [[Camera Ready](https://dl.acm.org/doi/pdf/10.1145/3581783.3612055)]** \
 > Chang Liu, Lichen Wang, and Yun Fu \
 > Northeastern University, Boston, MA, USA
