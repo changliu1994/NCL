@@ -1,0 +1,95 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv/
+pip-wheel-metadata/
+
+# Jupyter notebooks
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+
+# VSCode
+.vscode/
+*.code-workspace
+
+# PyCharm
+.idea/
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+pytest_cache/
+cover/
+ckps/
+
+# Pytest cache
+.cache/
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Cython debug symbols
+cython_debug/
+
+# Pycharm project files
+.idea/
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Sphinx documentation
+docs/_build/
+docs/_themes/
+
+# PyEnv
+.python-version
+
+# Project-specific
+*.log
+*.bak
+*.tmp
